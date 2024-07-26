@@ -70,13 +70,11 @@ public class customer {
     }
 
 	public void setAccountNumber(String accountNumber) {
-		// TODO Auto-generated method stub
 		this.accountNumber = accountNumber;
 	}
 
 	public String getAccountNumber() {
 		String AccountNumber = accountNumber;
-		// TODO Auto-generated method stub
 		return AccountNumber;
 	}
 
